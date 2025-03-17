@@ -54,11 +54,6 @@ The primary objective is to develop a research tool that:
 ![alt text](Architecture.jpeg)
 
 ---
-## Contribution
-- Aniket Patole - 40% - Airflow dags (docling,embeddings), Streamlit - RAGagent, Online Agent, Arxiv agent full code with implementation, Report and codelabs generation, Readme
-- Saurabh Vywahare - 30% - FastAPI and streamlit full connection and logic for all agents, Documentation, Codelabs, Deployment from scratch, Langgrapgh impletementation
-- Shreya Bage - 30% - Airflow dags help, docling, Arxiv agent , RAG Agent.
----
 ## 🚀 Setup Instructions
 
 1. **Clone the Repository:**
