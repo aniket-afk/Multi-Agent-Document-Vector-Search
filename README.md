@@ -51,7 +51,7 @@ The primary objective is to develop a research tool that:
 ---
 
 ## Architecture Diagram
-![alt text](Multi-Agent-document-Vector-Search/Architecture.jpeg)
+![alt text](Architecture.jpeg)
 
 ---
 ## Contribution
