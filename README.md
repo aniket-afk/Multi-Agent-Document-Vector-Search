@@ -105,15 +105,9 @@ streamlit run app.py
 • Export findings as a PDF report and structure them into a Codelabs document for future reference.
 
 ---
-📑 Submission Requirements
-Github Repository: Provide a project summary, proof of concept, issue tracker, and a 5-minute solution overview video.
-
-Diagrams and Documentation: Include architecture diagrams, detailed Codelabs documentation, and alink to the hosted application.
-
 📚 References
 • Docling GitHub Repository
 • Pinecone Documentation
 • Langraph Introduction
 • Google Codelabs Format Guide
 
-This streamlined section provides clearer instructions for configuration, running the pipeline, and launching the user interface, along with usage guidelines and submission requirements. Let me know if you need further customization!
